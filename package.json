@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "ags": "*",
     "gnim": "*"
   },
   "prettier": {
